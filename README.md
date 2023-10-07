@@ -9,7 +9,7 @@ The Real-Time Currency Converter documentation. This guide will walk you through
 *	Java Development Kit (JDK): To use this currency converter, you need the Java Development Kit installed on your computer. If you don't have it yet, you can download and install it from the official Oracle website or an open-source distribution like OpenJDK. In this scenario, we used Java 8.
 *	API Access Key: We'll be utilizing the "https://exchangerate.host" API for real-time exchange rate data. To access this API, you'll need an API key. If you don't have one yet, you can obtain it by visiting the "exchangerate.host" website and signing up.
   **Note**: If you want to use your own API, Open MainApp.java in any editor, and go to line no.7, Replace the following API_KEY with your own API.
-  o	e.g., `CurrencyConverter("Your_Api_Key_Here");`
+  e.g., `CurrencyConverter("Your_Api_Key_Here");`
 ## __Demonstration__
 **Step 1:** Compiling the Java Code
 Compile the given java code, by opening a command prompt or terminal, and type the following command.
