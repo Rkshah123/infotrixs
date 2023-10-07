@@ -84,7 +84,7 @@ Now we can choose any option to proceed further. Here we’ll demonstrate you th
   * **Description:** Displays a list of all favourite currencies.
   * Output:
 
-  ![6](images\6.png)
+  ![6](images/6.png)
 
 * Option 6: Exit the Application
   * ***Command: 6***
