@@ -13,7 +13,7 @@ The Real-Time Currency Converter documentation. This guide will walk you through
 
 **Step 1:** Compiling the Java Code
 Compile the given java code, by opening a command prompt or terminal, and type the following command.
-Command:  `javac CurrencyConverter.java FavoriteCurrencyManager.java Currency.java MainApp.java`
+* Command:  `javac CurrencyConverter.java FavoriteCurrencyManager.java Currency.java MainApp.java`
 
 **Step 2**: Running the Currency Converter System
 After successful compilation of codes, just run the MainApp by using the following command.
